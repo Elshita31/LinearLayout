@@ -43,6 +43,6 @@
 <h5>•	onDestroy() adalah kondisi saat Activity dihancurkan pada memori.</h5>  
   
 <h2>MATERI 1: LINEAR LAYOUT</h2>
-<h5>Project Linear Layout ini kita membuat berbagai jenis button.</h5>
+<h5>Project Linear Layout ini kita membuat berbagai jenis button dan text. Saya juga menambahkan style button yang solid, rounded, dan stroke</h5>
 <img src="1.jpg" height="600px" width="300px">
 
