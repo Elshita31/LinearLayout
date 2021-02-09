@@ -32,7 +32,7 @@
 
   </h5>
   
-<img src="siklus-hidup-activity.png" height="300px" width="300px">
+<img src="siklus-hidup-activity.png" height="400px" width="400px">
   
 <h5>•	onCreate() adalah kondisi awal saat Activity baru diciptakan, biasanya dilakukan inisialisasi pada tahapan ini.</h5>  
 <h5>•	onStart() adalah saat Activity dimulai.</h5>  
@@ -42,14 +42,7 @@
 <h5>•	onRestart() adalah kondisi saat Activity kembali dibuka oleh pengguna.</h5>  
 <h5>•	onDestroy() adalah kondisi saat Activity dihancurkan pada memori.</h5>  
   
- 
-    
-
 <h2>MATERI 1: LINEAR LAYOUT</h2>
-
-<h5>* Sebuah Style adalah kumpulan properti yang menetapkan penampilan dan format untuk View. 
-Style bisa menetapkan properti seperti tinggi, pengisi, warna font, ukuran font, warna latar belakang, 
-dan banyak lagi yang lainnya. Gaya didefinisikan di Style.xml(Res--> Values -->style.xml) yang terpisah dari XML yang menetapkan layout.</h5>
-<h5>* Sebuah tema adalah style yang diterapkan pada keseluruhan Activity atau aplikasi, bukannya View individual (seperti dalam contoh di atas).</h5>
+<h5>Project Linear Layout ini kita membuat berbagai jenis button.</h5>
 <img src="1.jpg" height="600px" width="300px">
-<img src="2.jpg" height="600px" width="300px">
+
