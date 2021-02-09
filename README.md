@@ -30,7 +30,17 @@
   Activity memiliki siklus hidup (lifecycle) yang merupakan kondisi yang akan dialami saat diciptakan sampai dihancurkan.
   Ada beberapa kondisi yang akan dialami oleh Activity seperti yang tergambar pada flow chart berikut ini.
 
-  <h/5>
+  </h5>
+  
+<img src="siklus-hidup-activity.png" height="300px" width="300px">
+  
+<h5>•	onCreate() adalah kondisi awal saat Activity baru diciptakan, biasanya dilakukan inisialisasi pada tahapan ini.</h5>  
+<h5>•	onStart() adalah saat Activity dimulai.</h5>  
+<h5>•	onResume() adalah saat Activity dibuka kembali, biasanya dieksekusi setelah onPause().</h5>  
+<h5>•	onPause() akan dipanggil saat ada Activity lain yang terbuka.</h5>  
+<h5>•	onStop() adalah kondisi saat Activity tidak ditampilkan dilayar (biasanya saat pengguna menekan tombol Home).</h5>  
+<h5>•	onRestart() adalah kondisi saat Activity kembali dibuka oleh pengguna.</h5>  
+<h5>•	onDestroy() adalah kondisi saat Activity dihancurkan pada memori.</h5>  
   
  
     
